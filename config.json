@@ -1,0 +1,21 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/letzspread",
+        "prod_uri": "mysql://root:@localhost/letzspread",
+        "tw_uri": "https://twiter.com/letsspread",
+        "fb_uri": "https://facebook.com/letsspread",
+        "gh_uri": "https://github.com/letsspread",
+        "blog_name": "Let's Spread",
+        "subheading": "The Synapse of the Blog buddies",
+        "gmail-user": "myemaill@gmail.com",
+    	"gmail-password": "password",
+        "about_text": "Welcome to Let's Spread! I am Sumaiya Aurny Sinja, the admin of the blog.",
+        "about_text2": "My team aims to offer our customers a variety of the latest articles. We have come a long way, so we know exactly which direction to take when supplying you with high quality contents. We offer all of this while providing excellent customer service and friendly support.",
+        "about_text3": "We always keep an eye on the latest trends and put our customers’ wishes first. That is why we have satisfied customers all over the world, and are thrilled to be a part of the Let's Spread.The interests of our customers are always top priority for us, so we hope you will enjoy our products as much as we enjoy making them available to you.",
+        "no_of_posts": 3,
+        "admin_user": "sinja",
+        "admin-password": "spreadnow"
+
+    }
+}
